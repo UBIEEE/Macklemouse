@@ -8,6 +8,14 @@ Key features:
   V1
   <img width="1032" height="762" alt="image" src="https://github.com/user-attachments/assets/efefab2f-501a-4c21-bb05-2f3d10cd09b5" />
 
+
+Length: 10.5cm
+
+Width: 8.0cm
+
+Height: 5.5cm
+
+
 ### Hardware Plan:
 10/12/26
 
